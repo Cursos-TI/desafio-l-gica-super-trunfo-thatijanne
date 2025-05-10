@@ -228,7 +228,6 @@ int main() {
         else {
             printf("Você perdeu!\n");
             }
+
+            return 0;
             }
-    
-    return 0;
-    }
